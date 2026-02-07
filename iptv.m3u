@@ -98,7 +98,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl7" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+7",Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="Undefined",Победа
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Сайт (VPN)",Победа
