@@ -69,13 +69,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+7",Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="mir" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138",Мир
+#EXTINF:-1 group-title="Эфирные" tvg-id="mir" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138",МИР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl2" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+2",Мир (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl2" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+2",МИР (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl4" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+4",Мир (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl4" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+4",МИР (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl7" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+7",Мир (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl7" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+7",МИР (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
