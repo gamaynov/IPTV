@@ -5,19 +5,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+1",Первый (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Первый (Орбита 4 +2)" tv-number="1" shift="+1" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+2)
+#EXTINF:-1 tvg-id="244" tvg-name="Первый (Орбита 4 +2)" shift="+1" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+3",Первый (+3)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 tvg-id="243" tvg-name="Первый (Орбита 3 +4)" tv-number="1" shift="+4" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс",Первый (+4)
+#EXTINF:-1 tvg-id="243" tvg-name="Первый (Орбита 3 +4)" shift="+4" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс",Первый (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+5",Первый (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Первый (Орбита 2 +6)" tv-number="1" shift="+6" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+6)
+#EXTINF:-1 tvg-id="242" tvg-name="Первый (Орбита 2 +6)" shift="+6" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+7",Первый (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="236" tvg-name="Первый (Орбита 2 +8)" tv-number="1" shift="+8" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+8)
+#EXTINF:-1 tvg-id="236" tvg-name="Первый (Орбита 2 +8)" shift="+8" tvg-logo="https://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+9",Первый (+9)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
