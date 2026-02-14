@@ -1,209 +1,209 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Первый" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="146-0" tvg-name="Первый (+1)" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(+1)
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Первый канал (Орбита 4 +2)" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал (Орбита 4 +2)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 tvg-id="146-2" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(+3)
+#EXTINF:-1 group-title="Эфирные" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="1",Первый канал (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+1",Первый (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="Первый (Орбита 4 +2)" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый канал (Орбита 4 +2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+3",Первый (+3)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 tvg-id="243" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал (Орбита 3 +4)
+#EXTINF:-1 tvg-id="243" tvg-name="Первый (Орбита 3 +4)" shift="+4" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс",Первый (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 tvg-id="146-34" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(+5)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+5",Первый (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-id="242" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал (Орбита 2 +6)
+#EXTINF:-1 tvg-id="242" tvg-name="Первый (Орбита 2 +6)" shift="+6" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 tvg-id="146-6" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+7",Первый (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="236" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал (Орбита 1 +8)
+#EXTINF:-1 tvg-id="236" tvg-name="Первый (Орбита 2 +8)" shift="+8" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 tvg-id="146-8" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(+9)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+9",Первый (+9)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="146-9" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg",Первый канал(-1)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-shift="+1" shift="-1",Первый (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/kXvbsgCP/89e442b0f789e5cabcf47b0b9c549720.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1 (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+1",Россия 1 (+1)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/kXvbsgCP/89e442b0f789e5cabcf47b0b9c549720.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1 (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+1",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl2" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+2",Россия 1 (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl2" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+2",Россия 1 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl3" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+3",Россия 1 (+3)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl3" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+3",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl4" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+4",Россия 1 (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl4" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+4",Россия 1 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl5" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+5",Россия 1 (+5)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl5" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+5",Россия 1 (+5)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl5" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+5",Россия 1 (+5)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl5" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+5",Россия 1 (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl6" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+6",Россия 1 (+6)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl6" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+6",Россия 1 (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl7" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+7",Россия 1 (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl7" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+7",Россия 1 (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl8" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+8",Россия 1 (+8)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl8" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+8",Россия 1 (+8)
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl9" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+9",Россия 1 (+9)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl9" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+9",Россия 1 (+9)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1" tvg-shift="+1" shift="-1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1 (-1)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1" tvg-shift="+1" shift="-1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1 (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6",НТВ
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92.png" channelId="6" tvg-id="ntv",НТВ (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl2" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+2",НТВ (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%A2%D0%92.png" channelId="6" tvg-id="ntv",НТВ (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl2" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+2",НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl4" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+4",НТВ (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl4" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+4",НТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl7" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+7",НТВ (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl7" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+7",НТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rentv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/7S8p4Hw/ren-logo.jpg" logo="https://i.postimg.cc/4dWqkhrk/6900abad5b72092009961dfa20d42abc.png" channelId="11" tvg-id="rentv",РЕН ТВ (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/7S8p4Hw/ren-logo.jpg" logo="http://i.postimg.cc/4dWqkhrk/6900abad5b72092009961dfa20d42abc.png" channelId="11" tvg-id="rentv",РЕН ТВ (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+2",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+4",Рен ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+7",Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="mir" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138",МИР
+#EXTINF:-1 group-title="Эфирные" tvg-id="mir" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138",МИР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl2" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+2",МИР (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl2" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138" shift="+2",МИР (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl4" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+4",МИР (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl4" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138" shift="+4",МИР (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl7" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="https://iptvxcdn.ml/mir.png" channelId="138" shift="+7",МИР (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl7" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138" shift="+7",МИР (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13",ТВ Центр
+#EXTINF:-1 group-title="Эфирные" tvg-id="tvcentr" tvg-logo="http://nv.tvstroka.com/images/tvc.png" logo="http://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/BQXHps5z/ab8c1792aec7a49953627fe997774bb9.png" logo="http://overlay.iptvin.fun/epg/PIC/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВ Центр (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl2" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+2",ТВ Центр (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/BQXHps5z/ab8c1792aec7a49953627fe997774bb9.png" logo="http://overlay.iptvin.fun/epg/PIC/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВ Центр (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl2" tvg-logo="http://nv.tvstroka.com/images/tvc.png" logo="http://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+2",ТВ Центр (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl4" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+4",ТВ Центр (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl4" tvg-logo="http://nv.tvstroka.com/images/tvc.png" logo="http://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+4",ТВ Центр (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl7" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+7",ТВ Центр (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tvcentr-pl7" tvg-logo="http://nv.tvstroka.com/images/tvc.png" logo="http://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" shift="+7",ТВ Центр (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="zvezda" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://i.ibb.co/CwH1V1s/zvezda.png" channelId="17" tvg-id="zvezda",Звезда (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl2" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+2",Звезда (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl4" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+4",Звезда (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl7" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+7",Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
+#EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="http://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="Undefined",Победа
-https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="http://i.imgur.com/4KiYSln.png" group-title="Undefined",Победа
+http://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 group-title="Сайт (VPN)",Победа
 http://193.25.8.59:8000/tochka
-#EXTINF:-1 tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png",Победа
-https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies",Патриот (576i)
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://iptvx.one/picons/pobeda.png",Победа
+http://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="http://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", День Победы HD
-http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="pobeda" group-title="Кино и сериалы",Победа
-http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения" ,ДИКИЙ охота и рыбалка
-https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="http://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения" ,ДИКИЙ охота и рыбалка
+http://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сайт (VPN)",Охота и рыбалка
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 group-title="Rutube (VPN)",Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5bs0uHyQfTR-G0AF7VSA&e=2070018816&scheme=https
-#EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
+http://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5bs0uHyQfTR-G0AF7VSA&e=2070018816&scheme=http
+#EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый канал
+#EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" tvg-id="5kanal-ru",Пятый канал (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl2" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+2",Пятый канал (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" tvg-id="5kanal-ru",Пятый канал (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl2" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+2",Пятый канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl4" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+4",Пятый канал (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl4" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+4",Пятый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl7" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+7",Пятый канал (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="5kanal-ru-pl7" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" shift="+7",Пятый канал (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/cD8x7gP/NNTV-256x256.png" channelId="1388" tvg-id="nntv",ННТВ (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/cD8x7gP/NNTV-256x256.png" channelId="1388" tvg-id="nntv",ННТВ (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0.png" channelId="811" tvg-id="volga",Волга (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/ByRjgQW/vremyan-logo-twitter-200x200.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20%D0%9D.png" channelId="-1" tvg-id="vremia-n",Время Н (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/nizhniy-novgorod-24_end2.png" logo="https://i.ibb.co/1QZ2ZtX/Nizhnij-Novgorod-24-220x132-tr.png" channelId="-1" tvg-id="nn-24",Нижний Новгород 24 (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/ByRjgQW/vremyan-logo-twitter-200x200.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20%D0%9D.png" channelId="-1" tvg-id="vremia-n",Время Н (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/nizhniy-novgorod-24_end2.png" logo="http://i.ibb.co/1QZ2ZtX/Nizhnij-Novgorod-24-220x132-tr.png" channelId="-1" tvg-id="nn-24",Нижний Новгород 24 (Нижегородская область)
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область",ТК Дзержинск (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область",Новое телевидение Сарова (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="domashny" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21",Домашний
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="domashny" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/S568FVP/014-domashniy-1.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" tvg-id="domashny" channelId="943192650698",Домашний (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+2",Домашний (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/S568FVP/014-domashniy-1.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_44E_B_70_1680000_0_0_0.png" tvg-id="domashny" channelId="943192650698",Домашний (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+2",Домашний (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+4",Домашний (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+4",Домашний (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+7",Домашний (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+7",Домашний (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5",Россия К
+#EXTINF:-1 group-title="Эфирные" tvg-id="kultura" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/pL0nNcy0/e4c7a5238a07abf9f03cff9cced65b83.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl2" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+2",Россия К (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/pL0nNcy0/e4c7a5238a07abf9f03cff9cced65b83.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl2" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+2",Россия К (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl4" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+4",Россия К (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl4" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+4",Россия К (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl7" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+7",Россия К (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl7" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+7",Россия К (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" logo="https://i115.fastpic.org/big/2021/0914/c4/58245c76c9aaa0fe64fb6e0ca87289c4.png" channelId="772" tvg-id="lot-47",Лен ТВ 24 HD
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия-24
+#EXTINF:-1 group-title="Северо-Запад-Ленинградская Область" tvg-logo="http://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" logo="http://i115.fastpic.org/big/2021/0914/c4/58245c76c9aaa0fe64fb6e0ca87289c4.png" channelId="772" tvg-id="lot-47",Лен ТВ 24 HD (Ленинградская Область)
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="moskva-24" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_723_12_70_1680000_0_0_0.png" channelId="153",Москва 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="rossia-24" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия-24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24 (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4",Матч ТВ
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24 (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="2na2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14",2x2
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="2na2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+2",2x2 (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl2" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+2",2x2 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl4" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+4",2x2 (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl4" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+4",2x2 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl7" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+7",2x2 (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="2na2-pl7" tvg-logo="http://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" shift="+7",2x2 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="piatnica" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5a32ed55590036318513e82b6295b378.png" channelId="26",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="https://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26" tvg-id="piatnica",Пятница (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="http://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26" tvg-id="piatnica",Пятница (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="piatnica-pl2" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5a32ed55590036318513e82b6295b378.png" channelId="26" shift="+2",Пятница (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="piatnica-pl4" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5a32ed55590036318513e82b6295b378.png" channelId="26" shift="+4",Пятница (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="piatnica-pl7" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/5a32ed55590036318513e82b6295b378.png" channelId="26" shift="+7",Пятница (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="sts-love" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571",СТС Love
+#EXTINF:-1 group-title="Развлекательные" tvg-id="sts-love" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+2",СТС Love (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+2",СТС Love (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+4",СТС Love (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+4",СТС Love (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+7",СТС Love (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-love-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/120657d923bb8b38c77d20c169d3d3fd.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" shift="+7",СТС Love (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="sts" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12",СТС
+#EXTINF:-1 group-title="Развлекательные" tvg-id="sts" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="http://chas.tv/img/channel/sts.png" channelId="12",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/ySYJLPd/ctc-logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+2",СТС (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/ySYJLPd/ctc-logo-01.jpg" logo="http://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="http://chas.tv/img/channel/sts.png" channelId="12" shift="+2",СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+4",СТС (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="http://chas.tv/img/channel/sts.png" channelId="12" shift="+4",СТС (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" shift="+7",СТС (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="sts-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/08273d6123a13733b6dd0be80fdbaeba.jpg" logo="http://chas.tv/img/channel/sts.png" channelId="12" shift="+7",СТС (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="super" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b698db72f5d774eee10a011dcc26c541.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="3",Суббота
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
@@ -213,38 +213,38 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="super-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b698db72f5d774eee10a011dcc26c541.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cb36e3898d166109163cbc3de2ae954c.png" channelId="3876" shift="3",Суббота (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="tv3-ru" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8",ТВ3
+#EXTINF:-1 group-title="Развлекательные" tvg-id="tv3-ru" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="http://chas.tv/img/channel/tv3.png" channelId="8",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/wMbHr43H/198a456cea3c9d55744ef6fe02ef0769.png" logo="https://i.postimg.cc/Qt3MgzKy/30d95d27fdf38694232b1a3568b6fa8d.png" channelId="8" tvg-id="tv3-ru",ТВ 3 (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+2",ТВ3 (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.postimg.cc/wMbHr43H/198a456cea3c9d55744ef6fe02ef0769.png" logo="http://i.postimg.cc/Qt3MgzKy/30d95d27fdf38694232b1a3568b6fa8d.png" channelId="8" tvg-id="tv3-ru",ТВ 3 (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="http://chas.tv/img/channel/tv3.png" channelId="8" shift="+2",ТВ3 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+4",ТВ3 (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="http://chas.tv/img/channel/tv3.png" channelId="8" shift="+4",ТВ3 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" shift="+7",ТВ3 (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tv3-ru-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d43e579adf2a32bdd54ff418ea7ccdde.png" logo="http://chas.tv/img/channel/tv3.png" channelId="8" shift="+7",ТВ3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16",ТНТ
+#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+2",ТНТ (+2)
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ (Нижегородская Область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+2",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+4",ТНТ (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+4",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+7",ТНТ (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/83a65f3ab1d06cde745a285a5027981a.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" shift="+7",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4
+#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+2",ТНТ4 (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+2",ТНТ4 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+4",ТНТ4 (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+4",ТНТ4 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+7",ТНТ4 (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="tnt4-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7521f9e6b14a838b3cbfac66ce29a67f.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" shift="+7",ТНТ4 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="che" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/35354fe2070fdf12cea99aa73e2328f4.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/812154d69d69a971b4cf85143ac822fa.png" channelId="22",Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.ibb.co/d4S6vpx/che-s.jpg" logo="https://i.ibb.co/p0vW9JQ/CHe-220x132-tr.png" channelId="22" tvg-id="che",Че (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/d4S6vpx/che-s.jpg" logo="http://i.ibb.co/p0vW9JQ/CHe-220x132-tr.png" channelId="22" tvg-id="che",Че (Нижегородская область)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="che-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/35354fe2070fdf12cea99aa73e2328f4.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/812154d69d69a971b4cf85143ac822fa.png" channelId="22" shift="+2",Че! (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="che-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/35354fe2070fdf12cea99aa73e2328f4.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/812154d69d69a971b4cf85143ac822fa.png" channelId="22" shift="+4",Че! (+4)
@@ -259,35 +259,35 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="yu-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/d9ba327d2618e3f2b43cee76742b4401.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2022/06/49614803d2ad33cd89bb80a0930eb4d9.png" channelId="23" shift="+7",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20",Карусель
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://only4.tv/ch/822.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" tvg-id="karusel",Карусель (Нижегородская Область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl2" tvg-logo="http://only4.tv/ch/822.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+2",Карусель (+2)
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl2" tvg-logo="http://only4.tv/ch/822.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+2",Карусель (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl4" tvg-logo="http://only4.tv/ch/822.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+4",Карусель (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl4" tvg-logo="http://only4.tv/ch/822.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+4",Карусель (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl7" tvg-logo="http://only4.tv/ch/822.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+7",Карусель (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="karusel-pl7" tvg-logo="http://only4.tv/ch/822.png" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_336_8_70_168AFFC_0_0_0.png" channelId="20" shift="+7",Карусель (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="https://picon.ml/solnce.png",Солнце
+#EXTINF:-1 group-title="Детские" tvg-id="solnce" tvg-logo="http://picon.ml/solnce.png",Солнце
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl2" tvg-logo="https://picon.ml/solnce.png" shift="+2",Солнце (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl2" tvg-logo="http://picon.ml/solnce.png" shift="+2",Солнце (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl4" tvg-logo="https://picon.ml/solnce.png" shift="+4",Солнце (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl4" tvg-logo="http://picon.ml/solnce.png" shift="+4",Солнце (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl7" tvg-logo="https://picon.ml/solnce.png" shift="+7",Солнце (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl7" tvg-logo="http://picon.ml/solnce.png" shift="+7",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136",Муз ТВ
+#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="http://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl2" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+2",Муз ТВ (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl2" tvg-logo="http://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+2",Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl4" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+4",Муз ТВ (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl4" tvg-logo="http://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+4",Муз ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl7" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+7",Муз ТВ (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl7" tvg-logo="http://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" shift="+7",Муз ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="spas" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244",Спас
+#EXTINF:-1 group-title="Религиозные" tvg-id="spas" tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244",Спас
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="spas-pl2" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" shift="+2",Спас (+2)
+#EXTINF:-1 group-title="Религиозные" tvg-id="spas-pl2" tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" shift="+2",Спас (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область",Камин ТВ (Нижегородская область)
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
