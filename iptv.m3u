@@ -159,10 +159,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="kultura-pl7" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" shift="+7",Россия К (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Северо-Запад-Ленинградская Область" tvg-logo="https://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" logo="https://i115.fastpic.org/big/2021/0914/c4/58245c76c9aaa0fe64fb6e0ca87289c4.png" channelId="772" tvg-id="lot-47",Лен ТВ 24 HD (Ленинградская Область)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" logo="https://i115.fastpic.org/big/2021/0914/c4/58245c76c9aaa0fe64fb6e0ca87289c4.png" channelId="772" tvg-id="lot-47",Лен ТВ 24 HD
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="moskva-24" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_723_12_70_1680000_0_0_0.png" channelId="153",Москва 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия-24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24 (Нижегородская область)
