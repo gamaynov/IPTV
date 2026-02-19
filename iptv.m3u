@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="Эфирные" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1",Первый канал
+#EXTINF:-1 group-title="Эфирные" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1", Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+1",Первый (+1)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+1",Первый (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Первый (Орбита 4 +2)" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый канал (Орбита 4 +2)
+#EXTINF:-1 tvg-id="244" tvg-name="Первый (Орбита 4 +2)" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" , Первый канал (Орбита 4 +2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+3",Первый (+3)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+3",Первый (+3)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 tvg-id="243" tvg-name="Первый (Орбита 3 +4)" shift="+4" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый канал (Орбита 3 +4)
+#EXTINF:-1 tvg-id="243" tvg-name="Первый (Орбита 3 +4)" shift="+4" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" , Первый канал (Орбита 3 +4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+5",Первый (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Первый (Орбита 2 +6)" shift="+6" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый канал (Орбита 2 +6)
+#EXTINF:-1 tvg-id="242" tvg-name="Первый (Орбита 2 +6)" shift="+6" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" , Первый канал (Орбита 2 +6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+7",Первый (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 tvg-id="236" tvg-name="Первый (Орбита 2 +8)" shift="+8" tvg-logo="http://dvb.by/sources/logos/2867s.png" group-title="Региoнальные плюс", Первый канал (Орбита 1 +8)
+#EXTINF:-1 tvg-id="236" tvg-name="Первый (Орбита 2 +8)" shift="+8" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" , Первый канал (Орбита 1 +8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+9",Первый (+9)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" shift="+9",Первый (+9)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-shift="+1" shift="-1",Первый (-1)
+#EXTINF:-1 tvg-id="1" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-shift="+1" shift="-1",Первый (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+1",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl2" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+2", Россия 1 (дубль 1)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl2" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+2", Россия 1 (дубль 4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl3" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+3",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl4" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+4", Россия 1 (дубль 2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl4" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+4", Россия 1 (дубль 3)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl5" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+5",Россия 1 (+5)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl6" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+6", Россия 1 (дубль 3)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl6" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+6", Россия 1 (дубль 2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl7" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+7",Россия 1 (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl8" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+8", Россия 1 (дубль 4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl8" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+8", Россия 1 (дубль 1)
 http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1-pl9" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" shift="+9",Россия 1 (+9)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1" tvg-shift="+1" shift="-1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1 (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6",НТВ
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl2" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+2",НТВ (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl2" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl4" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+4",НТВ (+4)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl4" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl7" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" shift="+7",НТВ (+7)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl7" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="rentv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11",РЕН ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-id="rentv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" , РЕН ТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl2" tvg-name="РЕН ТВ (+2)" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+2",Рен ТВ (+2)
+#EXTINF:-1 group-title="Региoнальные плюс" tvg-id="274" tvg-name="РЕН ТВ (+2)" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" , Рен ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl4" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+4",Рен ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
