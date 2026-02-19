@@ -119,7 +119,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1346062226859.gif" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%D0%BE%D0%BB%D0%B3%D0%B0.png" channelId="811" tvg-id="volga", Волга
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://i.ibb.co/ByRjgQW/vremyan-logo-twitter-200x200.jpg" logo="http://overlay.iptvin.fun/epg/PIC/%D0%92%D1%80%D0%B5%D0%BC%D1%8F%20%D0%9D.png" channelId="-1" tvg-id="vremia-n",Волга 24
 #EXTINF:-1 group-title="Волга-Нижегородская Область" tvg-logo="http://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/nizhniy-novgorod-24_end2.png" logo="http://i.ibb.co/1QZ2ZtX/Nizhnij-Novgorod-24-220x132-tr.png" channelId="-1" tvg-id="nn-24",Нижний Новгород 24
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16899/logo_256_1679058793.png", Дзержинск ТВ
