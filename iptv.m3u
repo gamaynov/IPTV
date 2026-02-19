@@ -99,16 +99,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="http://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="http://i.imgur.com/4KiYSln.png" group-title="Undefined",Победа
-http://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 group-title="Сайт (VPN)",Победа
-http://193.25.8.59:8000/tochka
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://iptvx.one/picons/pobeda.png",Победа
-http://streaming.thestream.cyou/live/43.m3u8
+http://193.25.8.59:8000/tochka
 #EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="http://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="http://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения" ,ДИКИЙ охота и рыбалка
-http://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сайт (VPN)",Охота и рыбалка
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 group-title="Rutube (VPN)",Охотник и рыболов
