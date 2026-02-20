@@ -45,6 +45,8 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rossia1" tvg-shift="+1" shift="-1" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2",Россия 1 (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbpZmmgW/cc55568f03e449345bf4056e4abe6334.png" ,НТВ HD
+http://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl2" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ (+2)
@@ -61,6 +63,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="rentv-pl7" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" logo="http://s1.hostingkartinok.com/uploads/images/2021/08/6900abad5b72092009961dfa20d42abc.png" channelId="11" shift="+7",Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Mir-HD-337x337.jpg" ,Мир HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="mir" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138",МИР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="mir-pl2" tvg-logo="http://www.interntv.ru/modules/Main/image_1/mirtv_rus.jpg" logo="http://iptvxcdn.ml/mir.png" channelId="138" shift="+2",МИР (+2)
@@ -87,6 +91,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl7" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+7",Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/76e275d8639546602625b7ccf727375f.png" ,Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/76e275d8639546602625b7ccf727375f.png" ,Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-logo="http://iptvx.one/picons/zvezda-plus.png" group-title="Общественные",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://iptvx.one/picons/pobeda.png", Победа
@@ -103,8 +111,10 @@ http://87.76.32.36:8001/ohotairibalka
 http://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5bs0uHyQfTR-G0AF7VSA&e=2070018816&scheme=http
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы" ,Кино ТВ
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/f29c66c9aeabb21b8c209337d4ebd17a.png" ,Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый Канал
@@ -144,14 +154,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="rossia-24" tvg-logo="http://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10",Россия 24
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" ,Россия 24 HD
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
+#EXTINF:-1 ,ТАСС HD
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" ,РБК HD
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные" ,РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 ,Неизвестная Россия HD
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Neizvestnaya-Planeta-220x220.png" ,Неизвестная планета HD
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" ,Матч!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" ,Матч!
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/tvico-n562.png" ,Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png" , 2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/1002/bb/3d0a923da669f69e83ac7238920bcfbb.png" ,2x2 (+2)
@@ -266,4 +288,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
-
