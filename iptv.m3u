@@ -99,6 +99,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 http://193.25.8.59:8000/tochka
 #EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="http://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies", Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/db5ff41244b8dbe5f8f597580b29f1b3.jpg" ,Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" ,Охота и рыбалка
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" ,Охота и рыбалка
@@ -109,10 +111,20 @@ http://87.76.32.36:8001/ohotairibalka
 http://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5bs0uHyQfTR-G0AF7VSA&e=2070018816&scheme=http
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/f5c1ff5166d689aa7e367f472c10785a.png" ,Дом кино Премиум HD
+http://109.75.59.241:8017/Domkino/index.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/21cc336366e3d103a1990d9f8e5d3cfd.png" ,Дом кино Премиум
+http://84.54.128.52:9090/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/domkino.png" ,Дом кино
+http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema
 http://176.96.241.40/Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Discovery-Channel-HD-220x220.png" ,Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sostav.ru/app/public/images/news/2014/03/12/FIRE_DC_HD_BLACK_RGB.jpg" ,Discovery Channel
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="5kanal-ru" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7",Пятый Канал
@@ -131,7 +143,7 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/16899/logo_256_1679058793.png", Дзержинск ТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 group-title="Волга-Нижегородская Область",Новое телевидение Сарова (Нижегородская Область)
+#EXTINF:-1 group-title="Волга-Нижегородская Область",Новое телевидение Сарова
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="domashny" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21",Домашний
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="domashny-pl2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/7c6077392a36bfb0113d212dcc0d5ea5.jpg" logo="http://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="21" shift="+2",Домашний (+2)
