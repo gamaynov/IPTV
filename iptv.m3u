@@ -55,6 +55,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="ntv-pl7" tvg-logo="http://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" , НТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png" ,НТВ Сериал
+http://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-xit.png" ,НТВ Хит
+http://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rentv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" , РЕН ТВ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="274" tvg-name="РЕН ТВ (+2)" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/b5cd08e7bcd25e874f1619d86581912c.jpg" , Рен ТВ (+2)
@@ -111,6 +115,8 @@ http://87.76.32.36:8001/ohotairibalka
 http://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5bs0uHyQfTR-G0AF7VSA&e=2070018816&scheme=http
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" ,Смотрим (Кино и сериалы)
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/f5c1ff5166d689aa7e367f472c10785a.png" ,Дом Кино Премиум
 http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
