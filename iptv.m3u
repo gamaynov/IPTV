@@ -164,8 +164,6 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные" ,РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 ,Неизвестная Россия HD
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Neizvestnaya-Planeta-220x220.png" ,Неизвестная планета HD
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" ,Матч!
