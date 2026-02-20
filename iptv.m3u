@@ -117,8 +117,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://109.75.59.241:8017/Domkino/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png" ,Видеокассета HD
-http://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema
 http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 group-title="Северо-Запад-Ленинградская Область" tvg-logo="http://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" logo="http://i115.fastpic.org/big/2021/0914/c4/58245c76c9aaa0fe64fb6e0ca87289c4.png" channelId="772" tvg-id="lot-47",Лен ТВ 24 HD
