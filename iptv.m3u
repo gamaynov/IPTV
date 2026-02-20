@@ -278,8 +278,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="Религиозные" tvg-id="spas" tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" ,Спас ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="spas-pl2" tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" ,Спас ТВ (+2)
+#EXTINF:-1 tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" ,Спас ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 tvg-logo="http://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" ,Спас ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/soyuz.png" ,Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" ,Надежда
