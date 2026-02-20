@@ -111,7 +111,7 @@ http://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=--5
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema HD
+#EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema
 http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
