@@ -283,6 +283,6 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-logo="https://iptvx.one/picons/nadezhda.png" ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
 #EXTINF:-1 tvg-logo="https://veranzo.ru/other/icons/Матч! Премьер HD.png" ,Матч! Премьер HD
-http://192.168.1.143:9090/InternationalID=525.ts
+http://192.168.1.143:9090/InternationalID=525.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Победа_.png" ,Победа HD
-http://192.168.1.143:9090/InternationalID=578.ts
+http://192.168.1.143:9090/InternationalID=578.m3u8
