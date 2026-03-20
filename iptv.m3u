@@ -129,6 +129,8 @@ http://87.76.32.36:8001/ohotairibalka
 http:bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png" ,Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" ,Смотрим (Кино и сериалы)
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" ,Кино ТВ
@@ -141,6 +143,8 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Discovery-Channel-HD-220x220.png" ,Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/national-geographic.png" ,National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" ,Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/782157ae62d423113e25cdc750bfb6e2.jpg" logo="http://runigma.com.ua/EPG/picons/%D0%9E%D0%A2%D0%A0.png" channelId="784",ОТР
@@ -200,8 +204,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/360-news.png" ,360° Новости HD
 http://dmi3y-tv6.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/moya-planeta.png" ,Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Neizvestnaya-Planeta-220x220.png" ,Неизвестная планета HD
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nauka-20.png" ,Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/texno-24.png" ,Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2008.png" ,АВТО 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" ,Матч!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2022/05/afab83b2b999a9fc378e7c70b7fc8a8b.png" ,Матч!
