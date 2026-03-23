@@ -125,10 +125,6 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://193.25.8.59:8000/ohota
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" ,Охота и рыбалка
 http://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" ,Охота и рыбалка
-http://87.76.32.36:8001/ohotairibalka
-#EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
-http:bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" ,Охотник и рыболов
 http://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2433.png" ,Наша Тема
