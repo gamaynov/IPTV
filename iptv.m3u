@@ -137,6 +137,10 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema
 http://176.96.241.40/Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" ,Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" ,Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.ibb.co/L1m0Vmg/logo-lentv24-s.jpg" ,Лен ТВ 24 HD
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/1825.png" ,Санкт-Петербург HD
