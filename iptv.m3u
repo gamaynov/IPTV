@@ -324,6 +324,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl7" tvg-logo="https://iptvx.one/picons/solnce.png" shift="+7",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/viva-rus.png" ,VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" ,МУЗ-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl2" tvg-logo="https://iptvx.one/picons/muztv.png" ,Муз ТВ (+2)
