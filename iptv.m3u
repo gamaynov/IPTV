@@ -200,6 +200,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD9cHbjq/3e1f25f1f3ab896ac7b564623369ae42.png" ,Россия 24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия HD
+http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_VLD/variant.m3u8
 #EXTINF:-1 tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" ,РБК HD
