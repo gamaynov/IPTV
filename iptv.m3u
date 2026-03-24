@@ -139,6 +139,8 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" ,Cinema
 http://176.96.241.40/Cinema/index.m3u8
+#EXTINF:-1 ,Кинозалы 3
+http://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" ,Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" ,Твоё ТВ HD Юмор
@@ -328,10 +330,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="solnce-pl7" tvg-logo="https://iptvx.one/picons/solnce.png" shift="+7",Солнце (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/viva-rus.png" ,VIVA Russia
-http://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/ea1ea49151191fb742ccb04bb3f3636f.png" ,#ё (Самара)
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" ,МУЗ-ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="muztv-pl2" tvg-logo="https://iptvx.one/picons/muztv.png" ,Муз ТВ (+2)
