@@ -131,8 +131,6 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Наше новое кино
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-air.png", Start Air
-http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 EXTINF:-1 group-title="Кино и сериалы", Наш кинопоказ
 http://cdn.kubteltv.workers.dev/?ID=414
 #EXTINF:-1 tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" ,Смотрим
