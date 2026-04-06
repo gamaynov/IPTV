@@ -151,6 +151,12 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка
 http://46.53.208.4:80/live/1123-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-0 , VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-0 , ReanimatoR_VHS
+http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png", Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" ,Твоё ТВ HD
