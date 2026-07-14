@@ -114,7 +114,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные плюс" tvg-id="zvezda-pl7" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="http://s1.hostingkartinok.com/uploads/images/2022/03/88647715e1728e324539fee700fe6a29.png" channelId="17" shift="+7",Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 tvg-logo="http://iptvx.one/picons/pobeda.png", Победа
+https://streaming.thestream.cyou/live/43.m3u8
+#EXTINF:-1 tvg-logo="http://iptvx.one/picons/pobeda.png", Победа
 http://193.25.8.59:8000/tochka
+#EXTINF:-1 tvg-logo="http://iptvx.one/picons/pobeda.png", Победа
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="Patriot.ru@SD" tvg-logo="http://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Movies", Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" ,Охота и рыбалка
